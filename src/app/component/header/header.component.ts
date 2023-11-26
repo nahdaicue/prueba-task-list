@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
 })
 export class HeaderComponent {
 
-  title : string = 'Task List';
+  title : string = 'My Task List';
 
 }
